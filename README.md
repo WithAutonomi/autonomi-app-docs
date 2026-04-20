@@ -10,7 +10,7 @@ Follow the steps below to install the app and get going:
 
 {% stepper %}
 {% step %}
-### **Download & Install the Autonomi App**
+### **Download & Install**
 
 [Windows](https://downloads.autonomi.com/autonomi-app/windows) (Windows 10+)
 
@@ -24,13 +24,13 @@ This app is in **Beta**, so expect regular updates as well as some niggles. _Nee
 {% endstep %}
 
 {% step %}
-### Add Your Wallet
+### **Add Your Wallet**
 
 In the **Wallet** screen, adding your Ethereum Address allows you to hold anything your nodes earn, and to pay for data uploads too. Read the full guide to [→ Wallets](guides/wallets.md)
 {% endstep %}
 
 {% step %}
-### Get Started with Autonomi
+### **Get Started**
 
 * **Run a node.** Contribute storage to the Autonomi network and earn rewards. [→ Running nodes](guides/running-nodes.md)
 * **Upload a file.** Store a file on the network, privately or publicly. [→ Uploading & downloading files](guides/files.md)
