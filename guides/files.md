@@ -25,3 +25,5 @@ description: Upload files to the Autonomi network and retrieve them from the app
 5. You have no sucessfully linked your wallet. Now select the **Files** button on the far left of the Autonomi App and then click the **Upload File(s)** button.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+6. Now select the file you want to upload from your computer.&#x20;
