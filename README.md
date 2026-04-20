@@ -6,44 +6,38 @@ description: Get up and running with the Autonomi App in a few minutes.
 
 The Autonomi App is a desktop application for the Autonomi network. Use it to run nodes and earn rewards, upload and download files, and manage your wallets — all from a single interface.
 
-Follow the steps below to install the app and pick your first task.
+Follow the steps below to install the app and get going:
 
-<!-- TODO: Replace the paragraph above with the approved product description once finalised. -->
+{% stepper %}
+{% step %}
+### **Download & Install the Autonomi App**
 
-## 1. Check system requirements
+[Windows](https://downloads.autonomi.com/autonomi-app/windows) (Windows 10+)
 
-Before installing, make sure your machine meets the minimum specs.
+[Mac](https://downloads.autonomi.com/autonomi-app/mac) (Apple Silicon)
 
-[→ System requirements](system-requirements.md)
+[Linux x86-64](https://downloads.autonomi.com/autonomi-app/linux) (Ubuntu 24.04+ recommended)
 
-<!-- TODO: One-line summary of requirements (e.g. "macOS 12+, Windows 10+, or a modern Linux distro; 8 GB RAM recommended."). -->
+{% hint style="info" %}
+This app is in **Beta**, so expect regular updates as well as some niggles. _Need help? Ask our friendly_ [_Discord community._](https://discord.gg/autonomi)
+{% endhint %}
+{% endstep %}
 
-## 2. Download the app
+{% step %}
+### Add Your Wallet
 
-Grab the latest release for your operating system.
+In the **Wallet** screen, adding your Ethereum Address allows you to hold anything your nodes earn, and to pay for data uploads too. Read the full guide to [→ Wallets](guides/wallets.md)
+{% endstep %}
 
-[→ Downloads](downloads.md)
+{% step %}
+### Get Started with Autonomi
 
-<!-- TODO: Inline the three primary download buttons/links here (macOS / Windows / Linux), with the Downloads page as the full list. -->
+* **Run a node.** Contribute storage to the Autonomi network and earn rewards. [→ Running nodes](guides/running-nodes.md)
+* **Upload a file.** Store a file on the network, privately or publicly. [→ Uploading & downloading files](guides/files.md)
+* **Download a file.** Retrieve a file from the network using its address. [→ Uploading & downloading files](guides/files.md)
+{% endstep %}
+{% endstepper %}
 
-## 3. Install and launch
-
-<!-- TODO: Short install steps per OS, or a single paragraph pointing at the per-OS guidance. -->
-
-## 4. Set up your wallet
-
-Most actions in the app — including running a node for rewards or paying for uploads — need a wallet. Create a new one or import an existing one on first launch.
-
-[→ Wallets](guides/wallets.md)
-
-## 5. Pick your first task
-
-Choose what you want to do first:
-
-- **Run a node.** Contribute storage to the Autonomi network and earn rewards. [→ Running nodes](guides/running-nodes.md)
-- **Upload a file.** Store a file on the network, privately or publicly. [→ Uploading & downloading files](guides/files.md)
-- **Download a file.** Retrieve a file from the network using its address. [→ Uploading & downloading files](guides/files.md)
-
----
+***
 
 **Need help?** Start with [Troubleshooting](guides/troubleshooting.md), or visit the [Support](support/get-help.md) section.
