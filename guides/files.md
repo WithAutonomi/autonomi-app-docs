@@ -30,7 +30,7 @@ description: Upload files to the Autonomi network and retrieve them from the app
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-7. Now you must wait. The status will go from **Obtaining quote** to **paying**.&#x20;
+7. Now you must wait. The status will go from **Obtaining quote...** to **Paying**. This can also take a few minutes.&#x20;
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
