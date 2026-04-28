@@ -30,8 +30,24 @@ description: Upload files to the Autonomi network and retrieve them from the app
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-7. Now you must wait. The status will go from **Obtaining quote...** to **Paying**. This can also take a few minutes.&#x20;
+7. Now check your MetaMask on your smartphone and approve the transaction.&#x20;
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+8. Now if you go back to the Autonomi App you should see that the upload was successful and shows the status as **Done**. Next lets try to download the file. Select **Download by Datamap**.&#x20;
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+9. Select the desired file that you have already uploaded.&#x20;
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+10. Click **Download**&#x20;
+
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+11. Select **Downloaded - click to open**&#x20;
+
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+12. Congratulations! The file has now been saved to your computer!
