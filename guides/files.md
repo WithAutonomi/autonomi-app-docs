@@ -26,4 +26,12 @@ description: Upload files to the Autonomi network and retrieve them from the app
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-6. Now select the file you want to upload from your computer.&#x20;
+6. Now select the file you want to upload from your computer. Once that is done you will wait on a quote. This can take a few minutes, but once complete you must select **Approve Upload**.&#x20;
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+7. Now you must wait. The status will go from **Obtaining quote** to **paying**.&#x20;
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
